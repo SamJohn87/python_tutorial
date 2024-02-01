@@ -115,7 +115,15 @@ import math
 """ x = math.sqrt(16)
 print(x) """
 
-x = math.ceil(5.4)
+""" x = math.ceil(5.4)
 y = math.floor(5.4)
 print(x)
-print(y)
+print(y) """
+
+print("Hello Samantha")
+
+favorite = 57
+playlist = 0
+
+playlist = favorite
+print(type(playlist))
