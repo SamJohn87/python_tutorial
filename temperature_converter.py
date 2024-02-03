@@ -41,7 +41,6 @@ while True:
         print(f'\n{number_to_convert}°C is equal to {int(conversion_value)}°F' )
         print(f'\nThe formula used to get this value is {number_to_convert} x 9/5 + 32')
     else:
-        conversion_value = (int(number_to_convert) -32) * 5/9
         print(f'\n{number_to_convert}°F is equal to {int(conversion_value)}°C' )
         print(f'\nThe formula used to get this value is ({number_to_convert} - 32) x 5/9')
 
