@@ -1,0 +1,16 @@
+#Pseudocode
+
+Get type of tea from user
+
+IF the type of tea is green THEN
+    DISPLAY 150-180 F
+ELSE IF the type of tea is oolong THEN
+    DISPLAY 190-200 F
+ELSE IF the type of tea is black THEN
+    DISPLAY 180-212 F
+ELSE THEN
+    DISPLAY "I don't recognize that tea"
+
+
+
+
